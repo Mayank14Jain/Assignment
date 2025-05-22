@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="andaz_kumar">andaz Kumar</string>
+    <string name="member_since_dec_2020">member since Dec, 2020</string>
+    <string name="get_to_know_your_vehicles_inside_out">get to know your vehicles, inside out</string>
+    <string name="credit_score">credit score</string>
+    <string name="_757">757</string>
+    <string name="symbol">\u20B9 3</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="win_upto_rs_1000_nrefer_and_earn">win upto Rs 1000 \nrefer and earn</string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+    <string name="all_transactions">all transactions</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="arrow"><![CDATA[->]]></string>
+    <string name="refresh_available">REFRESH AVAILABLE</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="cashback_balance_n_u20b9_0">cashback balance \n₹ 0</string>
+</resources>
